@@ -15,6 +15,10 @@ namespace Learning_C_Sharp
             Console.WriteLine(numberInterger);
 
             HelloWorld.Print();
+
+            // Adding to test commiting and git functionality.
+            uint unsignedInt = 16;
+            Console.WriteLine(unsignedInt);
         }
     }
 }
